@@ -13,7 +13,7 @@ This is a simple iOS app built in Swift that allows users to calculate their Bod
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BMI_Calculator.git
+   git clone https://github.com/Roshan1408/BMI_Calculator.git
 
 2.Open the BMI_Calculator.xcodeproj file in Xcode.
 3.Run the project on a simulator or a physical device.
