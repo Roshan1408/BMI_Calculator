@@ -21,7 +21,7 @@ This is a simple iOS app built in Swift that allows users to calculate their Bod
 ## Screenshots
 
 ### App Home Screen:
-![Home Screen](Users/admin/Desktop/home_screen.png)
+![Home Screen](<img width="804" alt="home_screen" src="https://github.com/user-attachments/assets/cff08793-811b-4227-b751-857e8a62ad2a" />)
 
 ## Technologies Used
 
