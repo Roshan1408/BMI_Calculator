@@ -38,4 +38,3 @@ This is a simple iOS app built in Swift that allows users to calculate their Bod
 ## License
 
 This project is licensed under the [MIT(Massachusetts Institute of Technology ) License]
-
