@@ -21,7 +21,7 @@ This is a simple iOS app built in Swift that allows users to calculate their Bod
 ## Screenshots
 
 ### App Home Screen:
-![Home Screen](https://drive.google.com/drive/folders/1lJiMPfXQgzDg-7nSVFYa5wZdRqwnHY2E)
+![Home Screen](https://github.com/Roshan1408/BMI_Calculator/blob/main/home_screen.png?raw=true)
 
 ## Technologies Used
 
